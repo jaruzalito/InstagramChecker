@@ -36,22 +36,6 @@ testuser1	test123
 testuser2	test123
 moderator	mod123
 
-## C. Podział prac:
-Nie dzieliliśmy się na frontend i backend, tylko na moduły.
-
-Marcel zainicjalizował środowisko i aplikację, przygotował moduły rejestracji i logowania, usprawnił je.
-
-Adrian stworzył moduł do szukania użytkowników Instagrama, a później moduły oceniania i komentarzy.
-
-Inne funkcjonalności wykonywaliśmy wspólnie na zasadzie dobra ja zrobie to, a ty zrobisz tamto ;)
-
-## D Baza Danych:
-<img width="853" alt="dbss" src="https://github.com/user-attachments/assets/52196267-e4b4-4303-8e19-36dbf6270d02">
-
-<img alt="dbss" src="https://github.com/user-attachments/assets/eb0ae80c-4732-4bb1-9e52-58c161b43437">
-
-<img alt="dbss" src="https://github.com/user-attachments/assets/8bb97ac4-b661-45a7-90c3-d2937f3e6ce5">
-
 <img alt="dbss" src="https://github.com/user-attachments/assets/21efee9f-a4ad-4e1a-acfb-aa9b567b1a0f">
 
 <img alt="dbss" src="https://github.com/user-attachments/assets/f9658a2e-ec42-4f7e-9bf5-c49dfb1b45ba">
